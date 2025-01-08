@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/ngDeployTest/ngDeploy/',
+  basePath: '/ngDeployTest/',
   entryPoints: {
     '': () => import('./main.server.mjs')
   },
